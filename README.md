@@ -10,7 +10,11 @@
 
 <br />
 
-SHA-3 and Keccak checksum utility 
+SHA-3 and Keccak checksum utility.
+
+<br />
+
+This project was available at https://github.com/maandree/sha3sum and has since been archived. I needed some extra things integrated, so I'm taking on my own fork.
 
 <br />
 
