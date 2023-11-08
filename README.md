@@ -33,7 +33,7 @@ This utilities can generate checksums or verify the checksums of files.
 # Build
 
 > [!WARNING]
-> You must build `libkeccak` first, and then `sha3sum`. Enter the `libkeccak` directory.
+> You must build `libkeccak` first, and then `sha3sum`.
 
 <br />
 
@@ -46,15 +46,7 @@ git clone https://github.com/Aetherinox/package-libkeccak-sha3sum.git
 
 Change to new directory
 ```shell
-cd package-libkeccak-sha3sum
-```
-
-<br />
-
-Go to the `libkeccak` folder first
-
-```shell
-cd libkeccak
+cd package-libkeccak-sha3sum/libkeccak
 ```
 
 <br />
