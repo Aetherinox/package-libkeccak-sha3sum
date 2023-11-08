@@ -80,6 +80,8 @@ You should be able to run a simple hash now
 sha3sum <<< "Hello World"
 ```
 
+<br />
+
 Which should return
 
 ```
